@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/57585370/118301777-e3b54c80-b4fc-11eb-96ae-a301555a5706.png)
+![Header](https://user-images.githubusercontent.com/57585370/118307531-4231f900-b504-11eb-8106-061b97776823.png)
 # Умная парковочная система
 ## Содержание
 1. [Общая информация](#generalInfo)
