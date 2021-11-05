@@ -15,7 +15,7 @@
 | Ермолаев Илья Дмитриевич | Ermolaev.ID@yandex.ru | [@Ermolaev_Ilya](https://t.me/ermolaev_ilya) | [Ссылка](https://github.com/ErmolaevID) |
 | Колтунов Матвей Максимович | Koltunov.matwei@gmail.com | [@Koltunov_Matthew](https://t.me/Koltunov_Matthew) | [Ссылка](https://github.com/echanatwell) |
 | Коробицын Дмитрий Кириллович | dimakorobitcyn@yandex.ru | [@magistrkanistr](https://t.me/magistrkanistr) | [Ссылка](https://github.com/FireFace1337) |
-| Непочатый Никита Владимирович | nick.nnepochatyy@mail.ru | [@UnAwareNik](https://t.me/UnAwareNik) | [Ссылка](https://github.com/Nikegdo) |
+| Непочатый Никита Владимирович | nick.nnepochatyy@mail.ru | [@DefinitelyNik](https://t.me/DefinitelyNik) | [Ссылка](https://github.com/Nikegdo) |
 
 - Цель проекта: <br/>
 Создать конкурентоспособную, прибыльную и удобную для пользователей модель автоматизированной парковочной системы.
