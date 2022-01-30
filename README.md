@@ -37,26 +37,30 @@
 
 ## Сервер <a name="server" />
 Сервер - мозг нашей системы. Он обрабатывает всю информацию. Взаимодействует с камерами на паркинге, проводит оплаты, выдает информацию о водителях 
-и владельцах паркинга.
-Репозиторий: https://github.com/Mind-team/smart-parking-system-server/
-Релизы: https://github.com/Mind-team/smart-parking-system-server/releases/
-Стенд: https://smart-parking-system-server.herokuapp.com/
-OpenAPI: https://smart-parking-system-server.herokuapp.com/api/
+и владельцах паркинга. <br/>
+
+Репозиторий: https://github.com/Mind-team/smart-parking-system-server/ <br/>
+Релизы: https://github.com/Mind-team/smart-parking-system-server/releases/ <br/>
+Стенд: https://smart-parking-system-server.herokuapp.com/ <br/>
+OpenAPI: https://smart-parking-system-server.herokuapp.com/api/ <br/>
 
 ## Веб-приложение для водителя <a name="driverWeb" />
-Приложение через которое пользователь взаимодействует с нашей системой. Водитель может видеть свои паркинги, добавить способ оплаты.
-Репозиторий: https://github.com/Mind-team/smart-parking-system-client-web/
-Релизы: https://github.com/Mind-team/smart-parking-system-client-web/releases/
-Стенд: https://mind-team.github.io/smart-parking-system-client-web/
+Приложение через которое пользователь взаимодействует с нашей системой. Водитель может видеть свои паркинги, добавить способ оплаты. <br/>
+
+Репозиторий: https://github.com/Mind-team/smart-parking-system-client-web/ <br/>
+Релизы: https://github.com/Mind-team/smart-parking-system-client-web/releases/ <br/>
+Стенд: https://mind-team.github.io/smart-parking-system-client-web/ <br/>
 
 ## Веб-приложение для владельца паркинга <a name="ownerWeb" />
-В этом приложении владелец паркинга может зарегистрировать свой паркинг, следить за состоянием текущих паркингов.
-Репозиторий: скоро
-Релизы: скоро
-Стенд: скоро
+В этом приложении владелец паркинга может зарегистрировать свой паркинг, следить за состоянием текущих паркингов. <br/>
+
+Репозиторий: скоро <br/>
+Релизы: скоро <br/>
+Стенд: скоро <br/>
 
 ## UI бибилотека <a name="uiLibrary" />
-Наша личная UI библиотека компонентов, которые используются в наших продуктах.
-Репозиторий: https://github.com/Mind-team/mind-ui/
-NPM: https://www.npmjs.com/package/@ermolaev/mind-ui/
-Storybook: https://mind-team.github.io/mind-ui/
+Наша личная UI библиотека компонентов, которые используются в наших продуктах. <br/>
+
+Репозиторий: https://github.com/Mind-team/mind-ui/ <br/>
+NPM: https://www.npmjs.com/package/@ermolaev/mind-ui/ <br/>
+Storybook: https://mind-team.github.io/mind-ui/ <br/>
