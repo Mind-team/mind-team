@@ -48,6 +48,8 @@ OpenAPI: http://5.53.124.242:5050/swagger/ <br/>
 
 Репозиторий: https://github.com/Mind-team/smart-parking-system-driver-web <br/>
 Релизы: https://github.com/Mind-team/smart-parking-system-driver-web/releases <br/>
+Стенд: http://84.38.183.39 <br/>
+Docker: https://hub.docker.com/r/ermolaev10/sps-driver-web <br/>
 
 ## Веб-приложение для владельца паркинга <a name="ownerWeb" />
 В этом приложении владелец паркинга может зарегистрировать свой паркинг, следить за состоянием текущих паркингов. <br/>
@@ -61,3 +63,8 @@ OpenAPI: http://5.53.124.242:5050/swagger/ <br/>
 Репозиторий: https://github.com/Mind-team/smart-parking-system-ui <br/>
 NPM: https://www.npmjs.com/package/sps-ui <br/>
 Storybook: https://mind-team.github.io/smart-parking-system-ui/?path=/story/docs-hello--page <br/>
+
+## Сервер распознавания номеров
+Сервер распознает номер автомобиля по фотографии
+
+Репозиторий: https://github.com/Mind-team/car-plate-recognize-api
