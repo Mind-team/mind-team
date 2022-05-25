@@ -6,6 +6,7 @@
 3. [Веб-приложение для водителя](#driverWeb)
 4. [Веб-приложение для владельца паркинга](#ownerWeb)
 5. [UI библиотека](#uiLibrary)
+6. [Сервер распознавания номеров](#recognize)
 ## Общая информация <a name="generalInfo" />
 - Название проекта: **Smart Parking System** 
 - Название команды: **M.I.N.D** 
@@ -64,7 +65,7 @@ Docker: https://hub.docker.com/r/ermolaev10/sps-driver-web <br/>
 NPM: https://www.npmjs.com/package/sps-ui <br/>
 Storybook: https://mind-team.github.io/smart-parking-system-ui/?path=/story/docs-hello--page <br/>
 
-## Сервер распознавания номеров
+## Сервер распознавания номеров <a name="recognize" />
 Сервер распознает номер автомобиля по фотографии
 
-Репозиторий: https://github.com/Mind-team/car-plate-recognize-api
+Репозиторий: https://github.com/Mind-team/car-plate-recognize-api <br/>
