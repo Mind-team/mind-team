@@ -58,6 +58,8 @@ Docker: https://hub.docker.com/r/ermolaev10/sps-driver-web <br/>
 
 Репозиторий: https://github.com/Mind-team/smart-parking-system-parking-owner-web <br/>
 Релизы: https://github.com/Mind-team/smart-parking-system-parking-owner-web/releases <br/>
+Стенд: http://80.249.144.180 <br/>
+Docker: https://hub.docker.com/r/ermolaev10/sps-parking-owner <br/>
 
 ## UI бибилотека <a name="uiLibrary" />
 Наша личная UI библиотека компонентов, которые используются в наших продуктах. <br/>
