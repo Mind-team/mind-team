@@ -72,5 +72,6 @@ Storybook: https://mind-team.github.io/smart-parking-system-ui/?path=/story/docs
 Сервер распознает номер автомобиля по фотографии
 
 Репозиторий: https://github.com/Mind-team/car-plate-recognize-api <br/>
+Релизы: https://github.com/Mind-team/car-plate-recognize-api/releases <br/>
 Стенд: http://188.68.222.72 <br/>
 OpenAPI: http://188.68.222.72/docs <br/>
